@@ -1,0 +1,13 @@
+.git
+.github
+.venv
+venv
+__pycache__
+*.pyc
+.dvc/cache
+.dvc/tmp
+data/raw
+data/processed
+submission
+*.zip
+*.md.bak

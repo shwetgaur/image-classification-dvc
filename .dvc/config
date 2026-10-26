@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://image-classification-dvc-746914061275/dvc-store
+    region = ap-south-1
